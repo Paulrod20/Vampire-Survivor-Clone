@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1772804847
+::res://::1772806882
 default_bus_layout.tres::AudioBusLayout::6564268947468103023::1772758567::0::1::::<><><>0<>0<><>::
 icon.png::CompressedTexture2D::15047351210411190::1772758567::1772759540::1::::<><><>0<>0<>1b715dbefff322edf369d96dc8dd5e44<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
 player.gd::GDScript::1700623032726953666::1772804739::0::1::::<>CharacterBody2D<><>0<>0<><>::
@@ -38,9 +38,10 @@ impact.tscn::PackedScene::706737085132625066::1772758567::0::1::::<><><>0<>0<><>
 muzzle_flash.gd::GDScript::2184711477186327130::1772758567::0::1::::<>Node2D<><>0<>0<><>::
 muzzle_flash.png::CompressedTexture2D::8165061320742786479::1772758567::1772759540::1::::<><><>0<>0<>d63a7f225b1e1679c8cc4123d78e692f<>res://.godot/imported/muzzle_flash.png-752b19c1a1a60c24eac6f205d487f2ea.ctex::
 muzzle_flash.tscn::PackedScene::6601472980654318439::1772758567::0::1::::<><><>0<>0<><>::uid://6ej4465c3oxu::::res://pistol/muzzle_flash/muzzle_flash.gd<>uid://brgpjilf7s2ul::::res://pistol/muzzle_flash/muzzle_flash.png
-::res://scenes/::1772804840
-player.tscn::PackedScene::6636363802798909755::1772804797::0::1::::<><><>0<>0<><>::uid://pbmyh1qru7p::::res://characters/happy_boo/happy_boo.tscn<>uid://yh2ao5or56lq::::res://player.gd
-survivors_game.tscn::PackedScene::1380537140081262616::1772804894::0::1::::<><><>0<>0<><>::
+::res://scenes/::1772806676
+PineTree.tscn::PackedScene::5230767645005800062::1772806171::0::1::::<><><>0<>0<><>::uid://dk5b8a84a6n2h::::res://characters/ground_shadow.png<>uid://bql1cc345qv7d::::res://trees/pine_tree.png
+player.tscn::PackedScene::6636363802798909755::1772806506::0::1::::<><><>0<>0<><>::uid://yh2ao5or56lq::::res://player.gd<>uid://pbmyh1qru7p::::res://characters/happy_boo/happy_boo.tscn
+survivors_game.tscn::PackedScene::1380537140081262616::1772806676::0::1::::<><><>0<>0<><>::uid://c1sx7bic4uhdj::::res://scenes/player.tscn<>uid://cgr28juh8lkxa::::res://scenes/PineTree.tscn
 ::res://scripts/::1772760459
 ::res://smoke_explosion/::1772759540
 circle_32.png::CompressedTexture2D::7675991244507767596::1772758567::1772759540::1::::<><><>0<>0<>794dd8718e69649603dc32baefde6578<>res://.godot/imported/circle_32.png-ff53eadac5c62484a55afe7e47d5145f.ctex::
